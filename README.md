@@ -18,6 +18,8 @@ $ make full
 ```
 
 ###Assembler
+
+[![demo](https://asciinema.org/a/veIa612mzBqZrnJW9EYhdpaDl)](https://asciinema.org/a/veIa612mzBqZrnJW9EYhdpaDl=1)
 ```sh
 $ cd ASM
 $ ./asm file_name[.s] ...
