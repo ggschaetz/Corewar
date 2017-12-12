@@ -24,7 +24,7 @@ $ cd ASM
 $ ./asm file_name[.s] ...
 ```
 
-[![asciicast](./screen_for_readme/screen.png)](./screen_for_readme/152252.json)
+[![asciicast](./screen_for_readme/screen.png)](./screen_for_readme/asm.cast)
 
 ###Virtual Machine
 ```sh
