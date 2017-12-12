@@ -23,6 +23,9 @@ $ make full
 $ cd ASM
 $ ./asm file_name[.s] ...
 ```
+
+[![demo](./screen_for_readme/screen.png)](https://asciinema.org/a/113463?autoplay=1)
+
 ###Virtual Machine
 ```sh
 $ ./corewar [-v] [-dump nbr_cycle] [[-n prog_number] prog_name][.cor] ...
