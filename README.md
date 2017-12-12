@@ -24,8 +24,6 @@ $ cd ASM
 $ ./asm file_name[.s] ...
 ```
 
-[![asciicast](./screen_for_readme/asm.cast)](./screen_for_readme/asm.cast)
-
 ###Virtual Machine
 ```sh
 $ ./corewar [-v] [-dump nbr_cycle] [[-n prog_number] prog_name][.cor] ...
